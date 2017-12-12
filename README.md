@@ -1,2 +1,2 @@
-# Machine-Learning-for-Trading
-Machine Learning Algorithms used for finance and trading 
+# Machine Learning for Trading
+### Machine Learning Algorithms used for finance and trading 
